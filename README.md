@@ -11,5 +11,8 @@
      2.4 Inspeccionamos el XPath de estos para añadir al código de "ligrapro.py"
      
 	
-
+3. MERCADO LIBRE
+   3.1 Se crea la información de 2 URL
+   3.2 Se realizan filtrados de cada una de las tablas seleccionadas
+   3.3 Se crean gráficos representativos de los datos filtrados
           
