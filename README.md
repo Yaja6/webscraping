@@ -15,4 +15,10 @@
    3.1 Se crea la información de 2 URL
    3.2 Se realizan filtrados de cada una de las tablas seleccionadas
    3.3 Se crean gráficos representativos de los datos filtrados
+   
+4. wikipedia
+   4.1 se crea la conexion con la base mongodb
+   4.2 se realiza la busqeuda de los campos de los cuales se requiere obtener la informacion o la lista generada.
+   4.3 se crea la estructura del json y los campos que van a ir.
+   4.4 se encuentra los datos y son guardados den la base de mongodb
           
